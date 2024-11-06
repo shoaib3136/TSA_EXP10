@@ -72,16 +72,24 @@ plt.show()
 ```
 
 ### OUTPUT:
+
 Consumption time series:
+
 ![alt text](image-1.png)
 
+
 Autocorrelation:
+
 ![alt text](image-2.png)
 
+
 Partial Autocorrelation:
+
 ![alt text](image-3.png)
 
+
 SARIMA Model Prediction:
+
 ![alt text](image-4.png)
 
 
